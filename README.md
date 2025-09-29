@@ -2,7 +2,7 @@
 
 I'm Tobias, a part-time full-stack freelance developer and security specialist. 
 
-- 🌱 I'm currently learning Fortinet Certified Associate in Cybersecurity  
+- 🌱 I'm currently learning **Fortinet Associate in Cybersecurity** 🛡️
 - 🚴 Fun fact: I'm addicted to cycling  
 
 ---
