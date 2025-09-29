@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**0Tobias/0Tobias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tobias, a part-time full-stack freelance developer and security specialist. 
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning Fortinet Certified Associate in Cybersecurity  
+- 🚴 Fun fact: I'm addicted to cycling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## I speak the following languages:
+1. Danish (First Language)  
+2. English (Second Language)
+3. German (Partially)
+
+---
